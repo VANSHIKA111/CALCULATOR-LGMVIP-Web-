@@ -1,0 +1,28 @@
+.flex{
+    display:flex;
+}
+.flex-col{
+    flex-direction:column
+}
+.item-center{
+   align-items:center;
+}
+.wrap{
+    flex-wrap:wrap;
+}
+.margin{
+    margin-top: 95px; 
+    margin-bottom: 88px;
+}
+.color-operators{
+background-color: #f9bef6;
+color:#4e184c;
+}
+.color-digits{
+    background-color:rgb(171, 216, 232);
+    color:rgb(54, 54, 154);
+}
+.color-c{
+    background-color: #ffd5d8;
+    color:#e32626;
+    }
